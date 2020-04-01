@@ -1,0 +1,1 @@
+The purpose of the exercise is to reinforce the fundamental structure of a web page by copying the google homepage.  
